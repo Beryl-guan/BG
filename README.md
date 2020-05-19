@@ -1,1 +1,1 @@
-# BG
+# knapsack problem
